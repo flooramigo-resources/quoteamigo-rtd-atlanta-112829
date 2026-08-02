@@ -25,3 +25,6 @@ QuoteAmigo Resources
    cape-coral-fl-pisos-pintura-es-112848
    carrollton-tx-contractor-estimating-software-112849
    carrollton-tx-flooring-painting-software-112850
+   carrollton-tx-contratistas-es-112851
+   carrollton-tx-pisos-pintura-es-112852
+   charlotte-nc-contractor-estimating-software-112853
