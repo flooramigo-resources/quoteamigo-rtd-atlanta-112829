@@ -22,3 +22,6 @@ QuoteAmigo Resources
    cape-coral-fl-contractor-estimating-software-112845
    cape-coral-fl-flooring-painting-software-112846
    cape-coral-fl-contratistas-es-112847
+   cape-coral-fl-pisos-pintura-es-112848
+   carrollton-tx-contractor-estimating-software-112849
+   carrollton-tx-flooring-painting-software-112850
