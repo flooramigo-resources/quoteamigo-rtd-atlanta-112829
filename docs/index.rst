@@ -31,3 +31,6 @@ QuoteAmigo Resources
    charlotte-nc-flooring-painting-software-112854
    charlotte-nc-contratistas-es-112855
    charlotte-nc-pisos-pintura-es-112856
+   chicago-il-contractor-estimating-software-112857
+   chicago-il-flooring-painting-software-112858
+   chicago-il-contratistas-es-112859
