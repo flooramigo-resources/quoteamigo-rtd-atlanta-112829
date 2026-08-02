@@ -12,3 +12,6 @@ QuoteAmigo Resources
    austin-tx-presupuestos-para-pisos-y-pintura
    brandon-fl-free-contractor-estimating-app
    brandon-fl-flooring-and-painting-estimating-software
+   brandon-fl-aplicacion-gratuita-de-presupuestos-para-contratistas
+   brandon-fl-presupuestos-para-pisos-y-pintura
+   burbank-ca-free-contractor-estimating-app
