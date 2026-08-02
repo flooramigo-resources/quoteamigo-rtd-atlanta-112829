@@ -46,3 +46,6 @@ QuoteAmigo Resources
    concord-nc-contractor-estimating-software-112869
    concord-nc-flooring-painting-software-112870
    concord-nc-contratistas-es-112871
+   concord-nc-presupuestos-para-pisos-y-pintura-112872
+   dallas-tx-free-contractor-estimating-app-112873
+   dallas-tx-flooring-and-painting-estimating-software-112874
