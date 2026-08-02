@@ -40,3 +40,6 @@ QuoteAmigo Resources
    clearwater-fl-contratistas-es-112863
    clearwater-fl-pisos-pintura-es-112864
    columbia-sc-contractor-estimating-software-112865
+   columbia-sc-flooring-painting-software-112866
+   columbia-sc-contratistas-es-112867
+   columbia-sc-pisos-pintura-es-112868
