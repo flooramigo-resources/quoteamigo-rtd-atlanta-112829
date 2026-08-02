@@ -34,3 +34,6 @@ QuoteAmigo Resources
    chicago-il-contractor-estimating-software-112857
    chicago-il-flooring-painting-software-112858
    chicago-il-contratistas-es-112859
+   chicago-il-pisos-pintura-es-112860
+   clearwater-fl-contractor-estimating-software-112861
+   clearwater-fl-flooring-painting-software-112862
