@@ -37,3 +37,6 @@ QuoteAmigo Resources
    chicago-il-pisos-pintura-es-112860
    clearwater-fl-contractor-estimating-software-112861
    clearwater-fl-flooring-painting-software-112862
+   clearwater-fl-contratistas-es-112863
+   clearwater-fl-pisos-pintura-es-112864
+   columbia-sc-contractor-estimating-software-112865
