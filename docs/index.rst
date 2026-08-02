@@ -19,3 +19,6 @@ QuoteAmigo Resources
    burbank-ca-flooring-painting-software-112842
    burbank-ca-contratistas-es-112843
    burbank-ca-pisos-pintura-es-112844
+   cape-coral-fl-contractor-estimating-software-112845
+   cape-coral-fl-flooring-painting-software-112846
+   cape-coral-fl-contratistas-es-112847
