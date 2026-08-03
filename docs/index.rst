@@ -73,3 +73,6 @@ QuoteAmigo Resources
    frisco-tx-presupuestos-para-pisos-y-pintura-112896
    gainesville-fl-free-contractor-estimating-app-112897
    gainesville-fl-flooring-and-painting-estimating-software-112898
+   gainesville-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-112899
+   gainesville-fl-presupuestos-para-pisos-y-pintura-112900
+   garland-tx-free-contractor-estimating-app-112901
