@@ -70,3 +70,6 @@ QuoteAmigo Resources
    frisco-tx-free-contractor-estimating-app-112893
    frisco-tx-flooring-and-painting-estimating-software-112894
    frisco-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-112895
+   frisco-tx-presupuestos-para-pisos-y-pintura-112896
+   gainesville-fl-free-contractor-estimating-app-112897
+   gainesville-fl-flooring-and-painting-estimating-software-112898
