@@ -52,3 +52,6 @@ QuoteAmigo Resources
    dallas-tx-contratistas-es-112875
    dallas-tx-presupuestos-para-pisos-y-pintura-112876
    denton-tx-free-contractor-estimating-app-112877
+   denton-tx-flooring-and-painting-estimating-software-112878
+   denton-tx-contratistas-es-112879
+   denton-tx-pisos-pintura-es-112880
