@@ -64,3 +64,6 @@ QuoteAmigo Resources
    durham-nc-aplicacion-gratuita-de-presupuestos-para-contratistas-112887
    durham-nc-presupuestos-para-pisos-y-pintura-112888
    fort-worth-tx-free-contractor-estimating-app-112889
+   fort-worth-tx-flooring-and-painting-estimating-software-112890
+   fort-worth-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-112891
+   fort-worth-tx-presupuestos-para-pisos-y-pintura-112892
