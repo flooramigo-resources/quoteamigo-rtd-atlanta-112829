@@ -85,3 +85,6 @@ QuoteAmigo Resources
    glendale-ca-free-contractor-estimating-app-112905
    glendale-ca-flooring-and-painting-estimating-software-112906
    glendale-ca-aplicacion-gratuita-de-presupuestos-para-contratistas-112907
+   kansas-city-mo-free-contractor-estimating-app-112929
+   kansas-city-mo-flooring-and-painting-estimating-software-112930
+   kansas-city-mo-aplicacion-gratuita-de-presupuestos-para-contratistas-112931
