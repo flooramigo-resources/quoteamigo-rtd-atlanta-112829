@@ -88,3 +88,6 @@ QuoteAmigo Resources
    kansas-city-mo-free-contractor-estimating-app-112929
    kansas-city-mo-flooring-and-painting-estimating-software-112930
    kansas-city-mo-aplicacion-gratuita-de-presupuestos-para-contratistas-112931
+   los-angeles-ca-presupuestos-para-pisos-y-pintura
+   mckinney-tx-free-contractor-estimating-app
+   mckinney-tx-flooring-and-painting-estimating-software
