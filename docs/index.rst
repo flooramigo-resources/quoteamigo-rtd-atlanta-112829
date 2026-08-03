@@ -58,3 +58,6 @@ QuoteAmigo Resources
    denver-co-free-contractor-estimating-app-112881
    denver-co-flooring-and-painting-estimating-software-112882
    denver-co-contratistas-es-112883
+   denver-co-presupuestos-para-pisos-y-pintura-112884
+   durham-nc-free-contractor-estimating-app-112885
+   durham-nc-flooring-and-painting-estimating-software-112886
