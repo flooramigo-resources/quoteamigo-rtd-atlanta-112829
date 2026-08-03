@@ -61,3 +61,6 @@ QuoteAmigo Resources
    denver-co-presupuestos-para-pisos-y-pintura-112884
    durham-nc-free-contractor-estimating-app-112885
    durham-nc-flooring-and-painting-estimating-software-112886
+   durham-nc-aplicacion-gratuita-de-presupuestos-para-contratistas-112887
+   durham-nc-presupuestos-para-pisos-y-pintura-112888
+   fort-worth-tx-free-contractor-estimating-app-112889
