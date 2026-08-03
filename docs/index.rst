@@ -49,3 +49,6 @@ QuoteAmigo Resources
    concord-nc-presupuestos-para-pisos-y-pintura-112872
    dallas-tx-free-contractor-estimating-app-112873
    dallas-tx-flooring-and-painting-estimating-software-112874
+   dallas-tx-contratistas-es-112875
+   dallas-tx-presupuestos-para-pisos-y-pintura-112876
+   denton-tx-free-contractor-estimating-app-112877
