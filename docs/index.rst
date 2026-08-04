@@ -100,3 +100,6 @@ QuoteAmigo Resources
    miami-fl-free-contractor-estimating-app
    miami-fl-flooring-and-painting-estimating-software
    miami-fl-aplicacion-gratuita-de-presupuestos-para-contratistas
+   miami-fl-presupuestos-para-pisos-y-pintura-112968
+   oklahoma-city-ok-free-contractor-estimating-app-112969
+   oklahoma-city-ok-flooring-and-painting-estimating-software-112970
