@@ -94,3 +94,6 @@ QuoteAmigo Resources
    mckinney-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-112959
    mckinney-tx-presupuestos-para-pisos-y-pintura-112960
    mesquite-tx-free-contractor-estimating-app-112961
+   miami-fl-free-contractor-estimating-app
+   miami-fl-flooring-and-painting-estimating-software
+   miami-fl-aplicacion-gratuita-de-presupuestos-para-contratistas
