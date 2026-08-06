@@ -103,3 +103,6 @@ QuoteAmigo Resources
    miami-fl-presupuestos-para-pisos-y-pintura-112968
    oklahoma-city-ok-free-contractor-estimating-app-112969
    oklahoma-city-ok-flooring-and-painting-estimating-software-112970
+   tallahassee-fl-free-contractor-estimating-app-113025
+   tallahassee-fl-flooring-and-painting-estimating-software-113026
+   tallahassee-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113027
