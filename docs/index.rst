@@ -108,3 +108,6 @@ QuoteAmigo Resources
    tallahassee-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113027
 
 .. RTD webhook trigger qa_20260806T083121 after integration resync
+   tampa-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113031
+   tampa-fl-presupuestos-para-pisos-y-pintura-113032
+   torrance-ca-free-contractor-estimating-app-113033
