@@ -107,6 +107,10 @@ QuoteAmigo Resources
    tallahassee-fl-flooring-and-painting-estimating-software-113026
    tallahassee-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113027
 
+   tulsa-ok-presupuestos-para-pisos-y-pintura-113040
+   washington-dc-free-contractor-estimating-app-113041
+   washington-dc-flooring-and-painting-estimating-software-113042
+
 .. RTD webhook trigger qa_20260806T083121 after integration resync
    tampa-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113031
    tampa-fl-presupuestos-para-pisos-y-pintura-113032
