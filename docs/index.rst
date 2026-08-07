@@ -111,3 +111,6 @@ QuoteAmigo Resources
    tampa-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113031
    tampa-fl-presupuestos-para-pisos-y-pintura-113032
    torrance-ca-free-contractor-estimating-app-113033
+   tulsa-ok-presupuestos-para-pisos-y-pintura-113040
+   washington-dc-free-contractor-estimating-app-113041
+   washington-dc-flooring-and-painting-estimating-software-113042
