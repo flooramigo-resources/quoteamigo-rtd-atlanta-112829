@@ -123,6 +123,9 @@ QuoteAmigo Resources
    glendale-ca-free-invoicing-software-for-contractors-6415591
    glendale-ca-software-gratuito-de-facturacion-para-contratistas-6415594
    grand-prairie-tx-free-invoicing-software-for-contractors-6415597
+   grand-prairie-tx-software-gratuito-de-facturacion-para-contratistas-6415600
+   houston-tx-free-invoicing-software-for-contractors-6415603
+   houston-tx-software-gratuito-de-facturacion-para-contratistas-6415606
 .. RTD webhook trigger qa_20260806T083121 after integration resync
    tampa-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113031
    tampa-fl-presupuestos-para-pisos-y-pintura-113032
