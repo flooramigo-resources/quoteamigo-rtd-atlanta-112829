@@ -114,6 +114,9 @@ QuoteAmigo Resources
    denver-co-software-gratuito-de-facturacion-6415558
    denver-co-free-invoicing-software-6415555
 
+   frisco-tx-free-invoicing-software-for-contractors-6415573
+   frisco-tx-software-gratuito-de-facturacion-para-contratistas-6415576
+   gainesville-fl-free-invoicing-software-for-contractors-6415579
 .. RTD webhook trigger qa_20260806T083121 after integration resync
    tampa-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113031
    tampa-fl-presupuestos-para-pisos-y-pintura-113032
