@@ -110,6 +110,9 @@ QuoteAmigo Resources
    tulsa-ok-presupuestos-para-pisos-y-pintura-113040
    washington-dc-free-contractor-estimating-app-113041
    washington-dc-flooring-and-painting-estimating-software-113042
+   durham-nc-free-invoicing-software-6415561
+   denver-co-software-gratuito-de-facturacion-6415558
+   denver-co-free-invoicing-software-6415555
 
 .. RTD webhook trigger qa_20260806T083121 after integration resync
    tampa-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113031
