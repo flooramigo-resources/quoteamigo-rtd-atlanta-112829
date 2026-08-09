@@ -211,3 +211,6 @@ QuoteAmigo Resources
    albuquerque-nm-aplicacion-gratuita-de-presupuestos-para-contratistas-6472366-042347
    albuquerque-nm-presupuestos-para-pisos-y-pintura-6472367-042347
    allentown-pa-free-contractor-estimating-app-6472375-042347
+   allentown-pa-flooring-and-painting-estimating-software-6472376-043231
+   allentown-pa-free-invoicing-software-for-contractors-6472377-043231
+   aurora-co-free-invoicing-software-for-contractors-6472395-043231
