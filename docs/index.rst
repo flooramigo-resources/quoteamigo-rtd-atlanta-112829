@@ -327,3 +327,6 @@ QuoteAmigo Resources
    colorado-springs-co-presupuestos-para-pisos-y-pintura-6472553-143513
    colorado-springs-co-software-gratuito-de-facturacion-para-contratistas-6472554-143513
    columbus-oh-free-contractor-estimating-app-6472561-143513
+   columbus-oh-flooring-and-painting-estimating-software-6472562-144722
+   columbus-oh-free-invoicing-software-for-contractors-6472563-144722
+   columbus-oh-aplicacion-gratuita-de-presupuestos-para-contratistas-6472564-144722
