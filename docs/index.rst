@@ -274,3 +274,6 @@ QuoteAmigo Resources
    brownsville-tx-presupuestos-para-pisos-y-pintura-6472463-095144
    brownsville-tx-software-gratuito-de-facturacion-para-contratistas-6472464-095144
    buffalo-ny-free-contractor-estimating-app-6472465-095144
+   buffalo-ny-flooring-and-painting-estimating-software-6472466-101315
+   buffalo-ny-free-invoicing-software-for-contractors-6472467-101315
+   buffalo-ny-aplicacion-gratuita-de-presupuestos-para-contratistas-6472468-101315
