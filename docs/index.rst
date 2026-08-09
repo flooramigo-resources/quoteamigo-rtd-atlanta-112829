@@ -241,3 +241,6 @@ QuoteAmigo Resources
    boise-city-id-flooring-and-painting-estimating-software-6472424-074633
    boise-city-id-free-invoicing-software-for-contractors-6472425-074633
    boise-city-id-aplicacion-gratuita-de-presupuestos-para-contratistas-6472426-074633
+   boise-city-id-presupuestos-para-pisos-y-pintura-6472427-075040
+   boise-city-id-software-gratuito-de-facturacion-para-contratistas-6472428-075040
+   boston-ma-free-contractor-estimating-app-6472429-075040
