@@ -129,6 +129,9 @@ QuoteAmigo Resources
    independence-mo-free-invoicing-software-for-contractors-6415609
    independence-mo-software-gratuito-de-facturacion-para-contratistas-6415612
    irving-tx-free-invoicing-software-for-contractors-6415615
+   irving-tx-software-gratuito-de-facturacion-para-contratistas-6415618
+   jacksonville-fl-free-invoicing-software-for-contractors-6415621
+   jacksonville-fl-software-gratuito-de-facturacion-para-contratistas-6415624
 .. RTD webhook trigger qa_20260806T083121 after integration resync
    tampa-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113031
    tampa-fl-presupuestos-para-pisos-y-pintura-113032
