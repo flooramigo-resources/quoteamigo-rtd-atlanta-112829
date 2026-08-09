@@ -175,3 +175,6 @@ QuoteAmigo Resources
    st-petersburg-fl-software-gratuito-de-facturacion-para-contratistas-6415768
    tallahassee-fl-free-invoicing-software-for-contractors-6415771
    tallahassee-fl-software-gratuito-de-facturacion-para-contratistas-6415774
+   tampa-fl-free-invoicing-software-for-contractors-6415777
+   tampa-fl-software-gratuito-de-facturacion-para-contratistas-6415780
+   torrance-ca-free-invoicing-software-for-contractors-6415783
