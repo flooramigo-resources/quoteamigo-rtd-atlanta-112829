@@ -247,3 +247,6 @@ QuoteAmigo Resources
    boston-ma-flooring-and-painting-estimating-software-6472430-075705
    boston-ma-free-invoicing-software-for-contractors-6472431-075705
    boston-ma-aplicacion-gratuita-de-presupuestos-para-contratistas-6472432-075705
+   boston-ma-presupuestos-para-pisos-y-pintura-6472433-081547
+   boston-ma-software-gratuito-de-facturacion-para-contratistas-6472434-081547
+   boulder-co-free-contractor-estimating-app-6472435-081547
