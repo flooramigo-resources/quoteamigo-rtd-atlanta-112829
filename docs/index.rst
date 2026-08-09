@@ -253,3 +253,6 @@ QuoteAmigo Resources
    boulder-co-flooring-and-painting-estimating-software-6472436-082335
    boulder-co-free-invoicing-software-for-contractors-6472437-082335
    boulder-co-aplicacion-gratuita-de-presupuestos-para-contratistas-6472438-082335
+   boulder-co-presupuestos-para-pisos-y-pintura-6472439-082943
+   boulder-co-software-gratuito-de-facturacion-para-contratistas-6472440-082943
+   bridgeport-ct-free-contractor-estimating-app-6472447-082943
