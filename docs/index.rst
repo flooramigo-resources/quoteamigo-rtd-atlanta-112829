@@ -271,3 +271,6 @@ QuoteAmigo Resources
    brownsville-tx-flooring-and-painting-estimating-software-6472460-092254
    brownsville-tx-free-invoicing-software-for-contractors-6472461-092254
    brownsville-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-6472462-092254
+   brownsville-tx-presupuestos-para-pisos-y-pintura-6472463-095144
+   brownsville-tx-software-gratuito-de-facturacion-para-contratistas-6472464-095144
+   buffalo-ny-free-contractor-estimating-app-6472465-095144
