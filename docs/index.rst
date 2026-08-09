@@ -265,3 +265,6 @@ QuoteAmigo Resources
    brockton-ma-flooring-and-painting-estimating-software-6472454-090035
    brockton-ma-free-invoicing-software-for-contractors-6472455-090035
    brockton-ma-aplicacion-gratuita-de-presupuestos-para-contratistas-6472456-090035
+   brockton-ma-presupuestos-para-pisos-y-pintura-6472457-091409
+   brockton-ma-software-gratuito-de-facturacion-para-contratistas-6472458-091409
+   brownsville-tx-free-contractor-estimating-app-6472459-091409
