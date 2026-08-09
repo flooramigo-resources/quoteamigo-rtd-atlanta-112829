@@ -348,3 +348,6 @@ QuoteAmigo Resources
    des-moines-ia-presupuestos-para-pisos-y-pintura-6472607-175316
    des-moines-ia-software-gratuito-de-facturacion-para-contratistas-6472608-175316
    detroit-mi-free-contractor-estimating-app-6472609-175316
+   detroit-mi-flooring-and-painting-estimating-software-6472610-182708
+   detroit-mi-free-invoicing-software-for-contractors-6472611-182708
+   detroit-mi-aplicacion-gratuita-de-presupuestos-para-contratistas-6472612-182708
