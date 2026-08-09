@@ -315,3 +315,6 @@ QuoteAmigo Resources
    college-station-tx-free-contractor-estimating-app-6472543-qa-132103
    chattanooga-tn-presupuestos-para-pisos-y-pintura-6472529-qa-132103b
    chattanooga-tn-presupuestos-para-pisos-y-pintura-6472529-qa-132103c
+   college-station-tx-flooring-and-painting-estimating-software-6472544-qa-134038
+   college-station-tx-free-invoicing-software-for-contractors-6472545-qa-134038
+   college-station-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-6472546-qa-134038
