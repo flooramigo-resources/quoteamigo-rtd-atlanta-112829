@@ -154,3 +154,6 @@ QuoteAmigo Resources
    los-angeles-ca-free-invoicing-software-for-contractors-6415663
    los-angeles-ca-software-gratuito-de-facturacion-para-contratistas-6415666
    mckinney-tx-free-invoicing-software-for-contractors-6415669
+   mckinney-tx-software-gratuito-de-facturacion-para-contratistas-6415672
+   mesquite-tx-free-invoicing-software-for-contractors-6415675
+   mesquite-tx-software-gratuito-de-facturacion-para-contratistas-6415678
