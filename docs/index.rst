@@ -172,3 +172,6 @@ QuoteAmigo Resources
    santa-clarita-ca-free-invoicing-software-for-contractors
    santa-clarita-ca-software-gratuito-de-facturacion-para-contratistas
    st-petersburg-fl-free-invoicing-software-for-contractors
+   st-petersburg-fl-software-gratuito-de-facturacion-para-contratistas-6415768
+   tallahassee-fl-free-invoicing-software-for-contractors-6415771
+   tallahassee-fl-software-gratuito-de-facturacion-para-contratistas-6415774
