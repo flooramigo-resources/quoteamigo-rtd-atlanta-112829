@@ -259,3 +259,6 @@ QuoteAmigo Resources
    bridgeport-ct-flooring-and-painting-estimating-software-6472448-083426
    bridgeport-ct-free-invoicing-software-for-contractors-6472449-083426
    bridgeport-ct-aplicacion-gratuita-de-presupuestos-para-contratistas-6472450-083426
+   bridgeport-ct-presupuestos-para-pisos-y-pintura-6472451-084030
+   bridgeport-ct-software-gratuito-de-facturacion-para-contratistas-6472452-084030
+   brockton-ma-free-contractor-estimating-app-6472453-084030
