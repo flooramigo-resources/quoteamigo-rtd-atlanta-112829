@@ -217,3 +217,6 @@ QuoteAmigo Resources
    aurora-co-aplicacion-gratuita-de-presupuestos-para-contratistas-6472396-043836
    aurora-co-presupuestos-para-pisos-y-pintura-6472397-043836
    aurora-co-software-gratuito-de-facturacion-para-contratistas-6472398-043836
+   albany-ny-aplicacion-gratuita-de-presupuestos-para-contratistas-6472360-qa-045327
+   allentown-pa-aplicacion-gratuita-de-presupuestos-para-contratistas-6472378-qa-045327
+   baton-rouge-la-free-contractor-estimating-app-6472405-qa-045327
