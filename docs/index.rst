@@ -187,3 +187,6 @@ QuoteAmigo Resources
    albany-ny-free-contractor-estimating-app
    albany-ny-flooring-and-painting-estimating-software
    albany-ny-free-invoicing-software-for-contractors
+   tampa-fl-free-invoicing-software-for-contractors
+   tampa-fl-software-gratuito-de-facturacion-para-contratistas
+   torrance-ca-free-invoicing-software-for-contractors
