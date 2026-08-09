@@ -214,3 +214,6 @@ QuoteAmigo Resources
    allentown-pa-flooring-and-painting-estimating-software-6472376-043231
    allentown-pa-free-invoicing-software-for-contractors-6472377-043231
    aurora-co-free-invoicing-software-for-contractors-6472395-043231
+   aurora-co-aplicacion-gratuita-de-presupuestos-para-contratistas-6472396-043836
+   aurora-co-presupuestos-para-pisos-y-pintura-6472397-043836
+   aurora-co-software-gratuito-de-facturacion-para-contratistas-6472398-043836
