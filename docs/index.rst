@@ -181,3 +181,6 @@ QuoteAmigo Resources
    torrance-ca-software-gratuito-de-facturacion-para-contratistas
    tulsa-ok-free-invoicing-software-for-contractors
    tulsa-ok-software-gratuito-de-facturacion-para-contratistas
+   washington-dc-free-invoicing-software-for-contractors
+   washington-dc-software-gratuito-de-facturacion-para-contratistas
+   free-invoicing-software-for-contractors
