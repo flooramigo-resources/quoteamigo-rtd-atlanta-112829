@@ -202,3 +202,6 @@ QuoteAmigo Resources
    allentown-pa-free-contractor-estimating-app-6472375
    allentown-pa-flooring-and-painting-estimating-software-6472376
    allentown-pa-free-invoicing-software-for-contractors-6472377
+   albany-ny-aplicacion-gratuita-de-presupuestos-para-contratistas-6472360-033512
+   allentown-pa-aplicacion-gratuita-de-presupuestos-para-contratistas-6472378-033512
+   allentown-pa-presupuestos-para-pisos-y-pintura-6472379-033512
