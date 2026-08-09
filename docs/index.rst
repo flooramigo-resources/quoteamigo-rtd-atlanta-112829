@@ -178,3 +178,6 @@ QuoteAmigo Resources
    tampa-fl-free-invoicing-software-for-contractors-6415777
    tampa-fl-software-gratuito-de-facturacion-para-contratistas-6415780
    torrance-ca-free-invoicing-software-for-contractors-6415783
+   torrance-ca-software-gratuito-de-facturacion-para-contratistas
+   tulsa-ok-free-invoicing-software-for-contractors
+   tulsa-ok-software-gratuito-de-facturacion-para-contratistas
