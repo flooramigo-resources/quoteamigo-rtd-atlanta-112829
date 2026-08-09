@@ -169,3 +169,6 @@ QuoteAmigo Resources
    san-antonio-tx-software-gratuito-de-facturacion-para-contratistas
    sandy-springs-ga-free-invoicing-software-for-contractors
    sandy-springs-ga-software-gratuito-de-facturacion-para-contratistas
+   santa-clarita-ca-free-invoicing-software-for-contractors
+   santa-clarita-ca-software-gratuito-de-facturacion-para-contratistas
+   st-petersburg-fl-free-invoicing-software-for-contractors
