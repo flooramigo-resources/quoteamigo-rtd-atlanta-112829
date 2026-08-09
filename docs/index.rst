@@ -145,3 +145,6 @@ QuoteAmigo Resources
    tulsa-ok-presupuestos-para-pisos-y-pintura-113040
    washington-dc-free-contractor-estimating-app-113041
    washington-dc-flooring-and-painting-estimating-software-113042
+   lehigh-acres-fl-free-invoicing-software-for-contractors-6415645
+   lehigh-acres-fl-software-gratuito-de-facturacion-para-contratistas-6415648
+   lewisville-tx-free-invoicing-software-for-contractors-6415651
