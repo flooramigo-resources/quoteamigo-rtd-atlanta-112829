@@ -160,3 +160,6 @@ QuoteAmigo Resources
    pittsburgh-pa-free-invoicing-software-for-contractors
    pittsburgh-pa-software-gratuito-de-facturacion-para-contratistas
    plano-tx-free-invoicing-software-for-contractors
+   plano-tx-software-gratuito-de-facturacion-para-contratistas
+   richardson-tx-free-invoicing-software-for-contractors
+   richardson-tx-software-gratuito-de-facturacion-para-contratistas
