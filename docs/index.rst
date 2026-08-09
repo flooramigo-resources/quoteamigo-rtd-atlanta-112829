@@ -336,3 +336,6 @@ QuoteAmigo Resources
    corpus-christi-tx-presupuestos-para-pisos-y-pintura-6472577-160806
    corpus-christi-tx-software-gratuito-de-facturacion-para-contratistas-6472578-160806
    dayton-oh-free-contractor-estimating-app-6472585-160806
+   dayton-oh-flooring-and-painting-estimating-software-6472586-163343
+   dayton-oh-free-invoicing-software-for-contractors-6472587-163343
+   dayton-oh-aplicacion-gratuita-de-presupuestos-para-contratistas-6472588-163343
