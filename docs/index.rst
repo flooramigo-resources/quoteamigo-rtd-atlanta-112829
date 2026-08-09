@@ -82,9 +82,6 @@ QuoteAmigo Resources
    glendale-ca-free-contractor-estimating-app-112905
    glendale-ca-flooring-and-painting-estimating-software-112906
    glendale-ca-aplicacion-gratuita-de-presupuestos-para-contratistas-112907
-   glendale-ca-free-contractor-estimating-app-112905
-   glendale-ca-flooring-and-painting-estimating-software-112906
-   glendale-ca-aplicacion-gratuita-de-presupuestos-para-contratistas-112907
    kansas-city-mo-free-contractor-estimating-app-112929
    kansas-city-mo-flooring-and-painting-estimating-software-112930
    kansas-city-mo-aplicacion-gratuita-de-presupuestos-para-contratistas-112931
@@ -97,23 +94,18 @@ QuoteAmigo Resources
    miami-fl-free-contractor-estimating-app
    miami-fl-flooring-and-painting-estimating-software
    miami-fl-aplicacion-gratuita-de-presupuestos-para-contratistas
-   miami-fl-free-contractor-estimating-app
-   miami-fl-flooring-and-painting-estimating-software
-   miami-fl-aplicacion-gratuita-de-presupuestos-para-contratistas
    miami-fl-presupuestos-para-pisos-y-pintura-112968
    oklahoma-city-ok-free-contractor-estimating-app-112969
    oklahoma-city-ok-flooring-and-painting-estimating-software-112970
    tallahassee-fl-free-contractor-estimating-app-113025
    tallahassee-fl-flooring-and-painting-estimating-software-113026
    tallahassee-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113027
-
    tulsa-ok-presupuestos-para-pisos-y-pintura-113040
    washington-dc-free-contractor-estimating-app-113041
    washington-dc-flooring-and-painting-estimating-software-113042
    durham-nc-free-invoicing-software-6415561
    denver-co-software-gratuito-de-facturacion-6415558
    denver-co-free-invoicing-software-6415555
-
    frisco-tx-free-invoicing-software-for-contractors-6415573
    frisco-tx-software-gratuito-de-facturacion-para-contratistas-6415576
    gainesville-fl-free-invoicing-software-for-contractors-6415579
@@ -147,13 +139,9 @@ QuoteAmigo Resources
    pasadena-tx-free-invoicing-software-for-contractors-6415705
    pasadena-tx-software-gratuito-de-facturacion-para-contratistas-6415708
    pearland-tx-free-invoicing-software-for-contractors-6415711
-.. RTD webhook trigger qa_20260806T083121 after integration resync
    tampa-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113031
    tampa-fl-presupuestos-para-pisos-y-pintura-113032
    torrance-ca-free-contractor-estimating-app-113033
-   tulsa-ok-presupuestos-para-pisos-y-pintura-113040
-   washington-dc-free-contractor-estimating-app-113041
-   washington-dc-flooring-and-painting-estimating-software-113042
    lehigh-acres-fl-free-invoicing-software-for-contractors-6415645
    lehigh-acres-fl-software-gratuito-de-facturacion-para-contratistas-6415648
    lewisville-tx-free-invoicing-software-for-contractors-6415651
@@ -169,6 +157,6 @@ QuoteAmigo Resources
    lehigh-acres-fl-free-invoicing-software-for-contractors-6415645-qa214310
    miami-fl-free-invoicing-software-for-contractors-6415681-qa214310
    miami-fl-software-gratuito-de-facturacion-para-contratistas-6415684-qa214310
-   lehigh-acres-fl-free-invoicing-software-for-contractors-6415645-qa214310
-   miami-fl-free-invoicing-software-for-contractors-6415681-qa214310
-   miami-fl-software-gratuito-de-facturacion-para-contratistas-6415684-qa214310
+   pittsburgh-pa-free-invoicing-software-for-contractors
+   pittsburgh-pa-software-gratuito-de-facturacion-para-contratistas
+   plano-tx-free-invoicing-software-for-contractors
