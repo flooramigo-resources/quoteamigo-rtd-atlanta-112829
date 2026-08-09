@@ -318,3 +318,6 @@ QuoteAmigo Resources
    college-station-tx-flooring-and-painting-estimating-software-6472544-qa-134038
    college-station-tx-free-invoicing-software-for-contractors-6472545-qa-134038
    college-station-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-6472546-qa-134038
+   college-station-tx-presupuestos-para-pisos-y-pintura-6472547-qa-135138
+   college-station-tx-software-gratuito-de-facturacion-para-contratistas-6472548-qa-135138
+   colorado-springs-co-free-contractor-estimating-app-6472549-qa-135138
