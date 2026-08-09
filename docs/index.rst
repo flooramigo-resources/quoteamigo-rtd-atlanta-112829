@@ -148,3 +148,6 @@ QuoteAmigo Resources
    lehigh-acres-fl-free-invoicing-software-for-contractors-6415645
    lehigh-acres-fl-software-gratuito-de-facturacion-para-contratistas-6415648
    lewisville-tx-free-invoicing-software-for-contractors-6415651
+   lewisville-tx-software-gratuito-de-facturacion-para-contratistas-6415654
+   long-beach-ca-free-invoicing-software-for-contractors-6415657
+   long-beach-ca-software-gratuito-de-facturacion-para-contratistas-6415660
