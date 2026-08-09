@@ -277,3 +277,6 @@ QuoteAmigo Resources
    buffalo-ny-presupuestos-para-pisos-y-pintura-6472469-101850
    buffalo-ny-software-gratuito-de-facturacion-para-contratistas-6472470-101850
    cambridge-ma-free-contractor-estimating-app-6472477-101850
+   cambridge-ma-flooring-and-painting-estimating-software-6472478-102321
+   cambridge-ma-free-invoicing-software-for-contractors-6472479-102321
+   cambridge-ma-aplicacion-gratuita-de-presupuestos-para-contratistas-6472480-102321
