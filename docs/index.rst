@@ -184,3 +184,6 @@ QuoteAmigo Resources
    san-antonio-tx-software-gratuito-de-facturacion-para-contratistas-6415750
    sandy-springs-ga-free-invoicing-software-for-contractors-6415753
    software-gratuito-de-facturacion-para-contratistas
+   albany-ny-free-contractor-estimating-app
+   albany-ny-flooring-and-painting-estimating-software
+   albany-ny-free-invoicing-software-for-contractors
