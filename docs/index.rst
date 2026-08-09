@@ -238,3 +238,6 @@ QuoteAmigo Resources
    bellevue-wa-presupuestos-para-pisos-y-pintura-6472421-070837
    bellevue-wa-software-gratuito-de-facturacion-para-contratistas-6472422-070837
    boise-city-id-free-contractor-estimating-app-6472423-070837
+   boise-city-id-flooring-and-painting-estimating-software-6472424-074633
+   boise-city-id-free-invoicing-software-for-contractors-6472425-074633
+   boise-city-id-aplicacion-gratuita-de-presupuestos-para-contratistas-6472426-074633
