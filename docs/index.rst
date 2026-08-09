@@ -157,3 +157,6 @@ QuoteAmigo Resources
    mckinney-tx-software-gratuito-de-facturacion-para-contratistas-6415672
    mesquite-tx-free-invoicing-software-for-contractors-6415675
    mesquite-tx-software-gratuito-de-facturacion-para-contratistas-6415678
+   lehigh-acres-fl-free-invoicing-software-for-contractors-6415645-qa214310
+   miami-fl-free-invoicing-software-for-contractors-6415681-qa214310
+   miami-fl-software-gratuito-de-facturacion-para-contratistas-6415684-qa214310
