@@ -307,3 +307,6 @@ QuoteAmigo Resources
    chandler-az-presupuestos-para-pisos-y-pintura-6472517-130925
    chandler-az-software-gratuito-de-facturacion-para-contratistas-6472518-130925
    chattanooga-tn-free-contractor-estimating-app-6472525-130925
+   chattanooga-tn-flooring-and-painting-estimating-software-6472526-131523
+   chattanooga-tn-free-invoicing-software-for-contractors-6472527-131523
+   chattanooga-tn-aplicacion-gratuita-de-presupuestos-para-contratistas-6472528-131523
