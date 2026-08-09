@@ -160,3 +160,6 @@ QuoteAmigo Resources
    lehigh-acres-fl-free-invoicing-software-for-contractors-6415645-qa214310
    miami-fl-free-invoicing-software-for-contractors-6415681-qa214310
    miami-fl-software-gratuito-de-facturacion-para-contratistas-6415684-qa214310
+   lehigh-acres-fl-free-invoicing-software-for-contractors-6415645-qa214310
+   miami-fl-free-invoicing-software-for-contractors-6415681-qa214310
+   miami-fl-software-gratuito-de-facturacion-para-contratistas-6415684-qa214310
