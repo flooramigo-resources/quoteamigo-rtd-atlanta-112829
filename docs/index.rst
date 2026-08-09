@@ -339,3 +339,6 @@ QuoteAmigo Resources
    dayton-oh-flooring-and-painting-estimating-software-6472586-163343
    dayton-oh-free-invoicing-software-for-contractors-6472587-163343
    dayton-oh-aplicacion-gratuita-de-presupuestos-para-contratistas-6472588-163343
+   dayton-oh-presupuestos-para-pisos-y-pintura-6472589-171609
+   dayton-oh-software-gratuito-de-facturacion-para-contratistas-6472590-171609
+   des-moines-ia-free-contractor-estimating-app-6472603-171609
