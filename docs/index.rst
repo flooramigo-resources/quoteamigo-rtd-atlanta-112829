@@ -1,4 +1,4 @@
-﻿QuoteAmigo Resources
+QuoteAmigo Resources
 ====================
 
 .. toctree::
@@ -286,11 +286,9 @@
    carmel-in-flooring-and-painting-estimating-software-6472490-112239
    carmel-in-free-invoicing-software-for-contractors-6472491-112239
    carmel-in-aplicacion-gratuita-de-presupuestos-para-contratistas-6472492-112239
-
    carmel-in-presupuestos-para-pisos-y-pintura-6472493-112725
    carmel-in-software-gratuito-de-facturacion-para-contratistas-6472494-112725
    cary-nc-free-contractor-estimating-app-6472501-112725
-
    cary-nc-flooring-and-painting-estimating-software-6472502-113731
    cary-nc-free-invoicing-software-for-contractors-6472503-113731
    cary-nc-aplicacion-gratuita-de-presupuestos-para-contratistas-6472504-113731
@@ -306,3 +304,6 @@
    chandler-az-flooring-and-painting-estimating-software-6472514-124238
    chandler-az-free-invoicing-software-for-contractors-6472515-124238
    chandler-az-aplicacion-gratuita-de-presupuestos-para-contratistas-6472516-124238
+   chandler-az-presupuestos-para-pisos-y-pintura-6472517-130925
+   chandler-az-software-gratuito-de-facturacion-para-contratistas-6472518-130925
+   chattanooga-tn-free-contractor-estimating-app-6472525-130925
