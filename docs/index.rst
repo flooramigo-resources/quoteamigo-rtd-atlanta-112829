@@ -190,3 +190,6 @@ QuoteAmigo Resources
    tampa-fl-free-invoicing-software-for-contractors
    tampa-fl-software-gratuito-de-facturacion-para-contratistas
    torrance-ca-free-invoicing-software-for-contractors
+   albany-ny-aplicacion-gratuita-de-presupuestos-para-contratistas-6472360
+   albany-ny-presupuestos-para-pisos-y-pintura-6472361
+   albany-ny-software-gratuito-de-facturacion-para-contratistas-6472362
