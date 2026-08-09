@@ -280,3 +280,6 @@ QuoteAmigo Resources
    cambridge-ma-flooring-and-painting-estimating-software-6472478-102321
    cambridge-ma-free-invoicing-software-for-contractors-6472479-102321
    cambridge-ma-aplicacion-gratuita-de-presupuestos-para-contratistas-6472480-102321
+   cambridge-ma-presupuestos-para-pisos-y-pintura-6472481-104659
+   cambridge-ma-software-gratuito-de-facturacion-para-contratistas-6472482-104659
+   carmel-in-free-contractor-estimating-app-6472489-104659
