@@ -220,3 +220,6 @@ QuoteAmigo Resources
    albany-ny-aplicacion-gratuita-de-presupuestos-para-contratistas-6472360-qa-045327
    allentown-pa-aplicacion-gratuita-de-presupuestos-para-contratistas-6472378-qa-045327
    baton-rouge-la-free-contractor-estimating-app-6472405-qa-045327
+   baton-rouge-la-flooring-and-painting-estimating-software-6472406
+   baton-rouge-la-free-invoicing-software-for-contractors-6472407
+   baton-rouge-la-aplicacion-gratuita-de-presupuestos-para-contratistas-6472408
