@@ -135,6 +135,9 @@ QuoteAmigo Resources
    kansas-city-mo-free-invoicing-software-for-contractors-6415627
    kansas-city-mo-software-gratuito-de-facturacion-para-contratistas-6415630
    lakeland-fl-free-invoicing-software-for-contractors-6415633
+   lakeland-fl-software-gratuito-de-facturacion-para-contratistas-6415636
+   lees-summit-mo-free-invoicing-software-for-contractors-6415639
+   lees-summit-mo-software-gratuito-de-facturacion-para-contratistas-6415642
 .. RTD webhook trigger qa_20260806T083121 after integration resync
    tampa-fl-aplicacion-gratuita-de-presupuestos-para-contratistas-113031
    tampa-fl-presupuestos-para-pisos-y-pintura-113032
