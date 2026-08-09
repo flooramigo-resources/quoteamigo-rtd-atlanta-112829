@@ -151,3 +151,6 @@ QuoteAmigo Resources
    lewisville-tx-software-gratuito-de-facturacion-para-contratistas-6415654
    long-beach-ca-free-invoicing-software-for-contractors-6415657
    long-beach-ca-software-gratuito-de-facturacion-para-contratistas-6415660
+   los-angeles-ca-free-invoicing-software-for-contractors-6415663
+   los-angeles-ca-software-gratuito-de-facturacion-para-contratistas-6415666
+   mckinney-tx-free-invoicing-software-for-contractors-6415669
