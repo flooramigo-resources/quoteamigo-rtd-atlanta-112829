@@ -1,0 +1,12 @@
+Cary, NC: flooring and painting estimating software
+===================================================
+
+The published market profile for Cary, NC shows a median home age of 26 years, an estimated owner-home size of 2,184 sq. ft., 8.0 median rooms, and 59.3% detached single-family homes. Those market figures provide context; QuoteAmigo begins each job with the specific property address.
+
+A professional can send the address, choose the work areas, and move from property dimensions to a customer-ready quote in WhatsApp. QuoteAmigo keeps the workflow straightforward for flooring and painting work in Cary, NC, without forcing the professional to learn another complicated system.
+
+QuoteAmigo links
+----------------
+
+* `Cary, NC flooring estimating software <https://quoteamigo.com/cary-nc/flooring-estimating-software/>`_
+* `Cary, NC painting estimating software <https://quoteamigo.com/cary-nc/painting-estimating-software/>`_
