@@ -310,3 +310,6 @@ QuoteAmigo Resources
    chattanooga-tn-flooring-and-painting-estimating-software-6472526-131523
    chattanooga-tn-free-invoicing-software-for-contractors-6472527-131523
    chattanooga-tn-aplicacion-gratuita-de-presupuestos-para-contratistas-6472528-131523
+   chattanooga-tn-presupuestos-para-pisos-y-pintura-6472529-qa-132103
+   chattanooga-tn-software-gratuito-de-facturacion-para-contratistas-6472530-qa-132103
+   college-station-tx-free-contractor-estimating-app-6472543-qa-132103
