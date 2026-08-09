@@ -223,3 +223,6 @@ QuoteAmigo Resources
    baton-rouge-la-flooring-and-painting-estimating-software-6472406
    baton-rouge-la-free-invoicing-software-for-contractors-6472407
    baton-rouge-la-aplicacion-gratuita-de-presupuestos-para-contratistas-6472408
+   baton-rouge-la-presupuestos-para-pisos-y-pintura-6472409-060313
+   baton-rouge-la-software-gratuito-de-facturacion-para-contratistas-6472410-060313
+   beaumont-tx-free-contractor-estimating-app-6472411-060313
