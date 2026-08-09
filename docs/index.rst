@@ -1,4 +1,4 @@
-QuoteAmigo Resources
+﻿QuoteAmigo Resources
 ====================
 
 .. toctree::
@@ -286,3 +286,7 @@ QuoteAmigo Resources
    carmel-in-flooring-and-painting-estimating-software-6472490-112239
    carmel-in-free-invoicing-software-for-contractors-6472491-112239
    carmel-in-aplicacion-gratuita-de-presupuestos-para-contratistas-6472492-112239
+
+   carmel-in-presupuestos-para-pisos-y-pintura-6472493-112725
+   carmel-in-software-gratuito-de-facturacion-para-contratistas-6472494-112725
+   cary-nc-free-contractor-estimating-app-6472501-112725
