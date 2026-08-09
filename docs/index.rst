@@ -205,3 +205,6 @@ QuoteAmigo Resources
    albany-ny-aplicacion-gratuita-de-presupuestos-para-contratistas-6472360-033512
    allentown-pa-aplicacion-gratuita-de-presupuestos-para-contratistas-6472378-033512
    allentown-pa-presupuestos-para-pisos-y-pintura-6472379-033512
+   allentown-pa-software-gratuito-de-facturacion-para-contratistas-6472380-034508
+   aurora-co-free-contractor-estimating-app-6472393-034508
+   aurora-co-flooring-and-painting-estimating-software-6472394-034508
