@@ -330,6 +330,6 @@ QuoteAmigo Resources
    columbus-oh-flooring-and-painting-estimating-software-6472562-144722
    columbus-oh-free-invoicing-software-for-contractors-6472563-144722
    columbus-oh-aplicacion-gratuita-de-presupuestos-para-contratistas-6472564-144722
-   columbus-oh-presupuestos-para-pisos-y-pintura-6472565-152804
-   columbus-oh-software-gratuito-de-facturacion-para-contratistas-6472566-152804
-   corpus-christi-tx-free-contractor-estimating-app-6472573-152804
+   corpus-christi-tx-flooring-and-painting-estimating-software-6472574-153436
+   corpus-christi-tx-free-invoicing-software-for-contractors-6472575-153436
+   corpus-christi-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-6472576-153436
