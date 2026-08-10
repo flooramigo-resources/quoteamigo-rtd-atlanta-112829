@@ -438,3 +438,6 @@ QuoteAmigo Resources
    jersey-city-nj-flooring-and-painting-estimating-software-6472760-072303
    jersey-city-nj-free-invoicing-software-for-contractors-6472761-072303
    jersey-city-nj-aplicacion-gratuita-de-presupuestos-para-contratistas-6472762-072303
+   jersey-city-nj-presupuestos-para-pisos-y-pintura-6472763-073157
+   jersey-city-nj-software-gratuito-de-facturacion-para-contratistas-6472764-073157
+   kent-wa-free-contractor-estimating-app-6472771-073157
