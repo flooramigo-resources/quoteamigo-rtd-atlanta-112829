@@ -390,3 +390,6 @@ QuoteAmigo Resources
    fort-wayne-in-flooring-and-painting-estimating-software-6472652-003433
    fort-wayne-in-free-invoicing-software-for-contractors-6472653-003433
    fort-wayne-in-aplicacion-gratuita-de-presupuestos-para-contratistas-6472654-003433
+   fort-wayne-in-presupuestos-para-pisos-y-pintura-6472655-003955
+   fort-wayne-in-software-gratuito-de-facturacion-para-contratistas-6472656-003955
+   gilbert-az-free-contractor-estimating-app-6472681-003955
