@@ -487,3 +487,6 @@ QuoteAmigo Resources
    coppell-tx-free-contractor-estimating-app-12615433-114243
    coppell-tx-flooring-and-painting-estimating-software-12615434-114243
    coppell-tx-free-invoicing-software-for-contractors-12615435-114243
+   desoto-tx-free-contractor-estimating-app-12615475-115915
+   desoto-tx-flooring-and-painting-estimating-software-12615476-115915
+   desoto-tx-free-invoicing-software-for-contractors-12615477-115915
