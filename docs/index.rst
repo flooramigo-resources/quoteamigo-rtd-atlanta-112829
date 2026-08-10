@@ -447,3 +447,6 @@ QuoteAmigo Resources
    kent-wa-presupuestos-para-pisos-y-pintura-6472775-075037
    kent-wa-software-gratuito-de-facturacion-para-contratistas-6472776-075037
    killeen-tx-free-contractor-estimating-app-6472777-075037
+   balch-springs-tx-free-contractor-estimating-app-12615229-085116
+   balch-springs-tx-flooring-and-painting-estimating-software-12615230-085116
+   balch-springs-tx-free-invoicing-software-for-contractors-12615231-085116
