@@ -523,3 +523,6 @@ QuoteAmigo Resources
    georgetown-tx-flooring-and-painting-estimating-software-12615578-155140
    georgetown-tx-free-invoicing-software-for-contractors-12615579-155140
    georgetown-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615580-155140
+   georgetown-tx-presupuestos-para-pisos-y-pintura
+   georgetown-tx-software-gratuito-de-facturacion-para-contratistas
+   grapevine-tx-free-contractor-estimating-app
