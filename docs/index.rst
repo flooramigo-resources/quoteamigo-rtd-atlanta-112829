@@ -465,3 +465,6 @@ QuoteAmigo Resources
    bryan-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615304-103809
    bryan-tx-presupuestos-para-pisos-y-pintura-12615305-103809
    bryan-tx-software-gratuito-de-facturacion-para-contratistas-12615306-103809
+   burleson-tx-free-contractor-estimating-app-12615319-104628
+   burleson-tx-flooring-and-painting-estimating-software-12615320-104628
+   burleson-tx-free-invoicing-software-for-contractors-12615321-104628
