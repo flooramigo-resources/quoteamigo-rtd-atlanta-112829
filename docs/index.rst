@@ -360,3 +360,6 @@ QuoteAmigo Resources
    detroit-mi-presupuestos-para-pisos-y-pintura-6472613-200350
    evansville-in-presupuestos-para-pisos-y-pintura-6472625-200350
    evansville-in-software-gratuito-de-facturacion-para-contratistas-6472626-200350
+   fairfield-ca-free-contractor-estimating-app-6472627-203114
+   fairfield-ca-flooring-and-painting-estimating-software-6472628-203114
+   fairfield-ca-free-invoicing-software-for-contractors-6472629-203114
