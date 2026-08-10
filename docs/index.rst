@@ -490,3 +490,6 @@ QuoteAmigo Resources
    desoto-tx-free-contractor-estimating-app-12615475-115915
    desoto-tx-flooring-and-painting-estimating-software-12615476-115915
    desoto-tx-free-invoicing-software-for-contractors-12615477-115915
+   desoto-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615478-120527
+   desoto-tx-presupuestos-para-pisos-y-pintura-12615479-120527
+   desoto-tx-software-gratuito-de-facturacion-para-contratistas-12615480-120527
