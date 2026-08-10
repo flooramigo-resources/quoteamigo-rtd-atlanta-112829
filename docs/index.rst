@@ -505,3 +505,6 @@ QuoteAmigo Resources
    duncanville-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615490-141245
    euless-tx-software-gratuito-de-facturacion-para-contratistas-12615504-141245
    farmers-branch-tx-free-contractor-estimating-app-12615517-141245
+   farmers-branch-tx-flooring-and-painting-estimating-software-12615518-141958
+   farmers-branch-tx-free-invoicing-software-for-contractors-12615519-141958
+   farmers-branch-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615520-141958
