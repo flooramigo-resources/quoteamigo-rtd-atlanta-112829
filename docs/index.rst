@@ -508,3 +508,6 @@ QuoteAmigo Resources
    farmers-branch-tx-flooring-and-painting-estimating-software-12615518-141958
    farmers-branch-tx-free-invoicing-software-for-contractors-12615519-141958
    farmers-branch-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615520-141958
+   desoto-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615478-142740
+   euless-tx-free-contractor-estimating-app-12615499-142740
+   euless-tx-flooring-and-painting-estimating-software-12615500-142740
