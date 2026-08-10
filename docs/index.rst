@@ -369,3 +369,6 @@ QuoteAmigo Resources
    fairfield-ca-presupuestos-para-pisos-y-pintura-6472631-211900
    fairfield-ca-software-gratuito-de-facturacion-para-contratistas-6472632-211900
    fayetteville-nc-free-contractor-estimating-app-6472633-211900
+   fayetteville-nc-flooring-and-painting-estimating-software-6472634-215727
+   fayetteville-nc-free-invoicing-software-for-contractors-6472635-215727
+   fayetteville-nc-aplicacion-gratuita-de-presupuestos-para-contratistas-6472636-215727
