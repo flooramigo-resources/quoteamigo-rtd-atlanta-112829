@@ -405,3 +405,6 @@ QuoteAmigo Resources
    glendale-az-flooring-and-painting-estimating-software-6472688-011754
    glendale-az-free-invoicing-software-for-contractors-6472689-011754
    glendale-az-aplicacion-gratuita-de-presupuestos-para-contratistas-6472690-011754
+   glendale-az-presupuestos-para-pisos-y-pintura-6472691-012255
+   glendale-az-software-gratuito-de-facturacion-para-contratistas-6472692-012255
+   grand-rapids-mi-free-contractor-estimating-app-6472705-012255
