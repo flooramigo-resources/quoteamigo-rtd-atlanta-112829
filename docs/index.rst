@@ -462,3 +462,6 @@ QuoteAmigo Resources
    bryan-tx-free-contractor-estimating-app-12615301-102417
    bryan-tx-flooring-and-painting-estimating-software-12615302-102417
    bryan-tx-free-invoicing-software-for-contractors-12615303-102417
+   bryan-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615304-103809
+   bryan-tx-presupuestos-para-pisos-y-pintura-12615305-103809
+   bryan-tx-software-gratuito-de-facturacion-para-contratistas-12615306-103809
