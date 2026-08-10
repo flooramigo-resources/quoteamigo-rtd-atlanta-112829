@@ -426,6 +426,6 @@ QuoteAmigo Resources
    hartford-ct-presupuestos-para-pisos-y-pintura-6472721-032106
    hartford-ct-software-gratuito-de-facturacion-para-contratistas-6472722-032106
    honolulu-hi-free-contractor-estimating-app-6472723-032106
-   honolulu-hi-flooring-and-painting-estimating-software-6472724-051840
-   honolulu-hi-free-invoicing-software-for-contractors-6472725-051840
-   honolulu-hi-aplicacion-gratuita-de-presupuestos-para-contratistas-6472726-051840
+   honolulu-hi-presupuestos-para-pisos-y-pintura-6472727
+   honolulu-hi-software-gratuito-de-facturacion-para-contratistas-6472728
+   huntsville-al-free-contractor-estimating-app-6472735
