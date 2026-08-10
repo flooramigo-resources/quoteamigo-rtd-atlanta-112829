@@ -444,3 +444,6 @@ QuoteAmigo Resources
    kent-wa-flooring-and-painting-estimating-software-6472772-074155
    kent-wa-free-invoicing-software-for-contractors-6472773-074155
    kent-wa-aplicacion-gratuita-de-presupuestos-para-contratistas-6472774-074155
+   kent-wa-presupuestos-para-pisos-y-pintura-6472775-075037
+   kent-wa-software-gratuito-de-facturacion-para-contratistas-6472776-075037
+   killeen-tx-free-contractor-estimating-app-6472777-075037
