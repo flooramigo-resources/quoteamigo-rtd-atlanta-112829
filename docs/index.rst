@@ -432,3 +432,6 @@ QuoteAmigo Resources
    huntsville-al-flooring-and-painting-estimating-software-6472736-062258
    huntsville-al-free-invoicing-software-for-contractors-6472737-062258
    huntsville-al-aplicacion-gratuita-de-presupuestos-para-contratistas-6472738-062258
+   huntsville-al-presupuestos-para-pisos-y-pintura-6472739-064554
+   huntsville-al-software-gratuito-de-facturacion-para-contratistas-6472740-064554
+   jersey-city-nj-free-contractor-estimating-app-6472759-064554
