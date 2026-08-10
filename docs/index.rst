@@ -423,3 +423,6 @@ QuoteAmigo Resources
    hartford-ct-flooring-and-painting-estimating-software-6472718-042349
    hartford-ct-free-invoicing-software-for-contractors-6472719-042349
    hartford-ct-aplicacion-gratuita-de-presupuestos-para-contratistas-6472720-042349
+   hartford-ct-presupuestos-para-pisos-y-pintura-6472721-032106
+   hartford-ct-software-gratuito-de-facturacion-para-contratistas-6472722-032106
+   honolulu-hi-free-contractor-estimating-app-6472723-032106
