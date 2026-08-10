@@ -399,3 +399,6 @@ QuoteAmigo Resources
    gilbert-az-flooring-and-painting-estimating-software-6472682-005841
    gilbert-az-free-invoicing-software-for-contractors-6472683-005841
    gilbert-az-aplicacion-gratuita-de-presupuestos-para-contratistas-6472684-005841
+   gilbert-az-presupuestos-para-pisos-y-pintura-6472685-010956
+   gilbert-az-software-gratuito-de-facturacion-para-contratistas-6472686-010956
+   glendale-az-free-contractor-estimating-app-6472687-010956
