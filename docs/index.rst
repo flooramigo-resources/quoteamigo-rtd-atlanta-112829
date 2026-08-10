@@ -520,3 +520,6 @@ QuoteAmigo Resources
    flower-mound-tx-presupuestos-para-pisos-y-pintura-12615539-151703
    flower-mound-tx-software-gratuito-de-facturacion-para-contratistas-12615540-151703
    georgetown-tx-free-contractor-estimating-app-12615577-151703
+   georgetown-tx-flooring-and-painting-estimating-software-12615578-155140
+   georgetown-tx-free-invoicing-software-for-contractors-12615579-155140
+   georgetown-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615580-155140
