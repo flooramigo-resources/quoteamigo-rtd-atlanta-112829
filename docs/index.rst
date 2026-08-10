@@ -453,3 +453,6 @@ QuoteAmigo Resources
    balch-springs-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615232-090023
    balch-springs-tx-presupuestos-para-pisos-y-pintura-12615233-090023
    balch-springs-tx-software-gratuito-de-facturacion-para-contratistas-12615234-090023
+   bedford-tx-free-contractor-estimating-app-12615247-091756
+   bedford-tx-flooring-and-painting-estimating-software-12615248-091756
+   bedford-tx-free-invoicing-software-for-contractors-12615249-091756
