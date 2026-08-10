@@ -499,3 +499,6 @@ QuoteAmigo Resources
    desoto-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615478-131336
    euless-tx-free-contractor-estimating-app-12615499-131336
    euless-tx-flooring-and-painting-estimating-software-12615500-131336
+   euless-tx-free-invoicing-software-for-contractors-12615501-133534
+   euless-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615502-133534
+   euless-tx-presupuestos-para-pisos-y-pintura-12615503-133534
