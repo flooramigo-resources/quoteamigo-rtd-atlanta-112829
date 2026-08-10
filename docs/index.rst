@@ -493,3 +493,6 @@ QuoteAmigo Resources
    desoto-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615478-120527
    desoto-tx-presupuestos-para-pisos-y-pintura-12615479-120527
    desoto-tx-software-gratuito-de-facturacion-para-contratistas-12615480-120527
+   duncanville-tx-free-contractor-estimating-app-12615487-121229
+   duncanville-tx-flooring-and-painting-estimating-software-12615488-121229
+   duncanville-tx-free-invoicing-software-for-contractors-12615489-121229
