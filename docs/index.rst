@@ -363,3 +363,6 @@ QuoteAmigo Resources
    fairfield-ca-free-contractor-estimating-app-6472627-203114
    fairfield-ca-flooring-and-painting-estimating-software-6472628-203114
    fairfield-ca-free-invoicing-software-for-contractors-6472629-203114
+   detroit-mi-presupuestos-para-pisos-y-pintura-6472613-211028
+   evansville-in-flooring-and-painting-estimating-software-6472622-211028
+   fairfield-ca-aplicacion-gratuita-de-presupuestos-para-contratistas-6472630-211028
