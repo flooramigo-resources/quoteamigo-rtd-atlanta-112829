@@ -441,3 +441,6 @@ QuoteAmigo Resources
    jersey-city-nj-presupuestos-para-pisos-y-pintura-6472763-073157
    jersey-city-nj-software-gratuito-de-facturacion-para-contratistas-6472764-073157
    kent-wa-free-contractor-estimating-app-6472771-073157
+   kent-wa-flooring-and-painting-estimating-software-6472772-074155
+   kent-wa-free-invoicing-software-for-contractors-6472773-074155
+   kent-wa-aplicacion-gratuita-de-presupuestos-para-contratistas-6472774-074155
