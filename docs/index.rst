@@ -456,3 +456,6 @@ QuoteAmigo Resources
    bedford-tx-free-contractor-estimating-app-12615247-091756
    bedford-tx-flooring-and-painting-estimating-software-12615248-091756
    bedford-tx-free-invoicing-software-for-contractors-12615249-091756
+   bedford-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615250-092918
+   bedford-tx-presupuestos-para-pisos-y-pintura-12615251-092918
+   bedford-tx-software-gratuito-de-facturacion-para-contratistas-12615252-092918
