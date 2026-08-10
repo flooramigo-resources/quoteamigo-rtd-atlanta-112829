@@ -366,3 +366,6 @@ QuoteAmigo Resources
    detroit-mi-presupuestos-para-pisos-y-pintura-6472613-211028
    evansville-in-flooring-and-painting-estimating-software-6472622-211028
    fairfield-ca-aplicacion-gratuita-de-presupuestos-para-contratistas-6472630-211028
+   fairfield-ca-presupuestos-para-pisos-y-pintura-6472631-211900
+   fairfield-ca-software-gratuito-de-facturacion-para-contratistas-6472632-211900
+   fayetteville-nc-free-contractor-estimating-app-6472633-211900
