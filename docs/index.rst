@@ -502,3 +502,6 @@ QuoteAmigo Resources
    euless-tx-free-invoicing-software-for-contractors-12615501-133534
    euless-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615502-133534
    euless-tx-presupuestos-para-pisos-y-pintura-12615503-133534
+   duncanville-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615490-141245
+   euless-tx-software-gratuito-de-facturacion-para-contratistas-12615504-141245
+   farmers-branch-tx-free-contractor-estimating-app-12615517-141245
