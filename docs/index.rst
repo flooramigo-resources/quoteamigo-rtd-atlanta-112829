@@ -435,3 +435,6 @@ QuoteAmigo Resources
    huntsville-al-presupuestos-para-pisos-y-pintura-6472739-064554
    huntsville-al-software-gratuito-de-facturacion-para-contratistas-6472740-064554
    jersey-city-nj-free-contractor-estimating-app-6472759-064554
+   jersey-city-nj-flooring-and-painting-estimating-software-6472760-072303
+   jersey-city-nj-free-invoicing-software-for-contractors-6472761-072303
+   jersey-city-nj-aplicacion-gratuita-de-presupuestos-para-contratistas-6472762-072303
