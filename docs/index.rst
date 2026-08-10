@@ -354,3 +354,6 @@ QuoteAmigo Resources
    detroit-mi-presupuestos-para-pisos-y-pintura-6472613-185536
    detroit-mi-software-gratuito-de-facturacion-para-contratistas-6472614-185536
    evansville-in-free-contractor-estimating-app-6472621-185536
+   evansville-in-flooring-and-painting-estimating-software-6472622-193654
+   evansville-in-free-invoicing-software-for-contractors-6472623-193654
+   evansville-in-aplicacion-gratuita-de-presupuestos-para-contratistas-6472624-193654
