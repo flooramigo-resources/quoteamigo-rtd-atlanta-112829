@@ -381,3 +381,6 @@ QuoteAmigo Resources
    fishers-in-presupuestos-para-pisos-y-pintura-6472643-232818
    fishers-in-software-gratuito-de-facturacion-para-contratistas-6472644-232818
    fort-collins-co-free-contractor-estimating-app-6472645-232818
+   fort-collins-co-flooring-and-painting-estimating-software-6472646-233438
+   fort-collins-co-free-invoicing-software-for-contractors-6472647-233438
+   fort-collins-co-aplicacion-gratuita-de-presupuestos-para-contratistas-6472648-233438
