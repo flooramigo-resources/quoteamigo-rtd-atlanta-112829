@@ -414,3 +414,6 @@ QuoteAmigo Resources
    grand-rapids-mi-presupuestos-para-pisos-y-pintura-6472709-013338
    grand-rapids-mi-software-gratuito-de-facturacion-para-contratistas-6472710-013338
    greeley-co-free-contractor-estimating-app-6472711-013338
+   greeley-co-flooring-and-painting-estimating-software-6472712-021125
+   greeley-co-free-invoicing-software-for-contractors-6472713-021125
+   greeley-co-aplicacion-gratuita-de-presupuestos-para-contratistas-6472714-021125
