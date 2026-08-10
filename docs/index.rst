@@ -468,3 +468,6 @@ QuoteAmigo Resources
    burleson-tx-free-contractor-estimating-app-12615319-104628
    burleson-tx-flooring-and-painting-estimating-software-12615320-104628
    burleson-tx-free-invoicing-software-for-contractors-12615321-104628
+   burleson-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615322-105428
+   burleson-tx-presupuestos-para-pisos-y-pintura-12615323-105428
+   burleson-tx-software-gratuito-de-facturacion-para-contratistas-12615324-105428
