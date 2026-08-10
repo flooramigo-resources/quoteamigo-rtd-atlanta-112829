@@ -450,3 +450,6 @@ QuoteAmigo Resources
    balch-springs-tx-free-contractor-estimating-app-12615229-085116
    balch-springs-tx-flooring-and-painting-estimating-software-12615230-085116
    balch-springs-tx-free-invoicing-software-for-contractors-12615231-085116
+   balch-springs-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615232-090023
+   balch-springs-tx-presupuestos-para-pisos-y-pintura-12615233-090023
+   balch-springs-tx-software-gratuito-de-facturacion-para-contratistas-12615234-090023
