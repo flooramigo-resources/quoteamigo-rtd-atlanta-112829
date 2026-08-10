@@ -375,3 +375,6 @@ QuoteAmigo Resources
    fayetteville-nc-presupuestos-para-pisos-y-pintura-6472637-224031
    fayetteville-nc-software-gratuito-de-facturacion-para-contratistas-6472638-224031
    fishers-in-free-contractor-estimating-app-6472639-224031
+   fishers-in-flooring-and-painting-estimating-software-6472640-224704
+   fishers-in-free-invoicing-software-for-contractors-6472641-224704
+   fishers-in-aplicacion-gratuita-de-presupuestos-para-contratistas-6472642-224704
