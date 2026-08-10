@@ -514,3 +514,6 @@ QuoteAmigo Resources
    farmers-branch-tx-presupuestos-para-pisos-y-pintura-12615521-145627
    farmers-branch-tx-software-gratuito-de-facturacion-para-contratistas-12615522-145627
    flower-mound-tx-free-contractor-estimating-app-12615535-145627
+   flower-mound-tx-flooring-and-painting-estimating-software-12615536-150110
+   flower-mound-tx-free-invoicing-software-for-contractors-12615537-150110
+   flower-mound-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615538-150110
