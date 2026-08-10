@@ -529,3 +529,6 @@ QuoteAmigo Resources
    grapevine-tx-flooring-and-painting-estimating-software-12615614-163228
    grapevine-tx-free-invoicing-software-for-contractors-12615615-163228
    grapevine-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615616-163228
+   georgetown-tx-flooring-and-painting-estimating-software-12615578-171958
+   georgetown-tx-free-invoicing-software-for-contractors-12615579-171958
+   georgetown-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615580-171958
