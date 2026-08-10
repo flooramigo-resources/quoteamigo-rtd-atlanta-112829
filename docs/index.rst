@@ -484,3 +484,6 @@ QuoteAmigo Resources
    colleyville-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615406-112544
    colleyville-tx-presupuestos-para-pisos-y-pintura-12615407-112544
    colleyville-tx-software-gratuito-de-facturacion-para-contratistas-12615408-112544
+   coppell-tx-free-contractor-estimating-app-12615433-114243
+   coppell-tx-flooring-and-painting-estimating-software-12615434-114243
+   coppell-tx-free-invoicing-software-for-contractors-12615435-114243
