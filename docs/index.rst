@@ -496,3 +496,6 @@ QuoteAmigo Resources
    duncanville-tx-free-contractor-estimating-app-12615487-121229
    duncanville-tx-flooring-and-painting-estimating-software-12615488-121229
    duncanville-tx-free-invoicing-software-for-contractors-12615489-121229
+   desoto-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615478-131336
+   euless-tx-free-contractor-estimating-app-12615499-131336
+   euless-tx-flooring-and-painting-estimating-software-12615500-131336
