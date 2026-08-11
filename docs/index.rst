@@ -621,3 +621,6 @@ QuoteAmigo Resources
    missouri-city-tx-free-contractor-estimating-app-12615859
    missouri-city-tx-flooring-and-painting-estimating-software-12615860
    missouri-city-tx-free-invoicing-software-for-contractors-12615861
+   missouri-city-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615862
+   missouri-city-tx-presupuestos-para-pisos-y-pintura-12615863
+   missouri-city-tx-software-gratuito-de-facturacion-para-contratistas-12615864
