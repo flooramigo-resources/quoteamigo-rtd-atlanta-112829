@@ -570,3 +570,6 @@ QuoteAmigo Resources
    kyle-tx-software-gratuito-de-facturacion-para-contratistas-12615720-010544
    lancaster-tx-free-contractor-estimating-app-12615727-010544
    lancaster-tx-flooring-and-painting-estimating-software-12615728-010544
+   lancaster-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615730-013031
+   lancaster-tx-presupuestos-para-pisos-y-pintura-12615731-013031
+   lancaster-tx-software-gratuito-de-facturacion-para-contratistas-12615732-013031
