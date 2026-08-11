@@ -561,3 +561,6 @@ QuoteAmigo Resources
    kyle-tx-free-invoicing-software-for-contractors-12615717-234248
    kyle-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615718-234248
    kyle-tx-presupuestos-para-pisos-y-pintura-12615719-234248
+   kyle-tx-free-invoicing-software-for-contractors-12615717-234248
+   kyle-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615718-234248
+   kyle-tx-presupuestos-para-pisos-y-pintura-12615719-234248
