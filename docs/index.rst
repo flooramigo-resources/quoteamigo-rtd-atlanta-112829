@@ -627,3 +627,6 @@ QuoteAmigo Resources
    north-richland-hills-tx-free-contractor-estimating-app-12615913
    north-richland-hills-tx-flooring-and-painting-estimating-software-12615914
    north-richland-hills-tx-free-invoicing-software-for-contractors-12615915
+   missouri-city-tx-free-contractor-estimating-app-12615859-135613
+   missouri-city-tx-flooring-and-painting-estimating-software-12615860-135613
+   north-richland-hills-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615916-135613
