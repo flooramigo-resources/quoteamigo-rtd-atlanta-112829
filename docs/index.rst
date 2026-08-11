@@ -540,3 +540,6 @@ QuoteAmigo Resources
    haltom-city-tx-free-invoicing-software-for-contractors-12615627-202053
    haltom-city-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615628-202053
    haltom-city-tx-presupuestos-para-pisos-y-pintura-12615629-202053
+   georgetown-tx-flooring-and-painting-estimating-software-12615578-203723
+   georgetown-tx-free-invoicing-software-for-contractors-12615579-203723
+   georgetown-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615580-203723
