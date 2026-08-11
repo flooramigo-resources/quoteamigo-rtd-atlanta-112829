@@ -555,3 +555,6 @@ QuoteAmigo Resources
    keller-tx-free-invoicing-software-for-contractors-12615693-224952
    keller-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615694-224952
    keller-tx-presupuestos-para-pisos-y-pintura-12615695-224952
+   keller-tx-software-gratuito-de-facturacion-para-contratistas-12615696
+   kyle-tx-free-contractor-estimating-app-12615715
+   kyle-tx-flooring-and-painting-estimating-software-12615716
