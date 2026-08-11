@@ -480,7 +480,6 @@ QuoteAmigo Resources
    colleyville-tx-free-contractor-estimating-app-12615403-112048
    colleyville-tx-flooring-and-painting-estimating-software-12615404-112048
    colleyville-tx-free-invoicing-software-for-contractors-12615405-112048
-
    colleyville-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615406-112544
    colleyville-tx-presupuestos-para-pisos-y-pintura-12615407-112544
    colleyville-tx-software-gratuito-de-facturacion-para-contratistas-12615408-112544
@@ -538,3 +537,6 @@ QuoteAmigo Resources
    grapevine-tx-software-gratuito-de-facturacion-para-contratistas-12615618-200633
    haltom-city-tx-free-contractor-estimating-app-12615625-200633
    haltom-city-tx-flooring-and-painting-estimating-software-12615626-200633
+   haltom-city-tx-free-invoicing-software-for-contractors-12615627-202053
+   haltom-city-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615628-202053
+   haltom-city-tx-presupuestos-para-pisos-y-pintura-12615629-202053
