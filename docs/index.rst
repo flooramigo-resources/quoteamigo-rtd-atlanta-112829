@@ -5,6 +5,9 @@ QuoteAmigo Resources
    :maxdepth: 2
    :caption: Resources
 
+   leander-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615748-073310
+   leander-tx-presupuestos-para-pisos-y-pintura-12615749-073310
+   leander-tx-software-gratuito-de-facturacion-para-contratistas-12615750-073310
    little-elm-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615772-qa-070508
    little-elm-tx-presupuestos-para-pisos-y-pintura-12615773-qa-070508
    little-elm-tx-software-gratuito-de-facturacion-para-contratistas-12615774-qa-070508
