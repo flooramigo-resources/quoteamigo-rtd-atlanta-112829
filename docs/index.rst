@@ -549,3 +549,6 @@ QuoteAmigo Resources
    hurst-tx-free-invoicing-software-for-contractors-12615657-213104
    hurst-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615658-213104
    hurst-tx-presupuestos-para-pisos-y-pintura-12615659-213104
+   hurst-tx-software-gratuito-de-facturacion-para-contratistas-12615660-221611
+   keller-tx-free-contractor-estimating-app-12615691-221611
+   keller-tx-flooring-and-painting-estimating-software-12615692-221611
