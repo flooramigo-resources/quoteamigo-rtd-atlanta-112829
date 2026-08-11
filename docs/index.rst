@@ -6,6 +6,9 @@ QuoteAmigo Resources
    :caption: Resources
 
    atlanta-ga-free-contractor-estimating-app
+   lancaster-tx-free-invoicing-software-for-contractors-12615729-qa_20260811T021159
+   leander-tx-free-contractor-estimating-app-12615745-qa_20260811T021159
+   leander-tx-flooring-and-painting-estimating-software-12615746-qa_20260811T021159
    austin-tx-free-contractor-estimating-app
    austin-tx-flooring-and-painting-estimating-software
    austin-tx-aplicacion-gratuita-de-presupuestos-para-contratistas
