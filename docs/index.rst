@@ -5,6 +5,9 @@ QuoteAmigo Resources
    :maxdepth: 2
    :caption: Resources
 
+   mansfield-tx-free-contractor-estimating-app-12615805-qa-100700
+   mansfield-tx-flooring-and-painting-estimating-software-12615806-qa-100700
+   mansfield-tx-free-invoicing-software-for-contractors-12615807-qa-100700
    leander-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615748-qa-093739
    leander-tx-presupuestos-para-pisos-y-pintura-12615749-qa-093739
    leander-tx-software-gratuito-de-facturacion-para-contratistas-12615750-qa-093739
