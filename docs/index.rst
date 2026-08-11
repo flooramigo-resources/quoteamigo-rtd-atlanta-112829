@@ -5,6 +5,9 @@ QuoteAmigo Resources
    :maxdepth: 2
    :caption: Resources
 
+   lancaster-tx-free-contractor-estimating-app-12615727-052319
+   lancaster-tx-flooring-and-painting-estimating-software-12615728-052319
+   leander-tx-free-invoicing-software-for-contractors-12615747-052319
    lancaster-tx-software-gratuito-de-facturacion-para-contratistas-12615732-050040
    leander-tx-free-contractor-estimating-app-12615745-050040
    leander-tx-flooring-and-painting-estimating-software-12615746-050040
