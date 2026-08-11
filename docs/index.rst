@@ -645,3 +645,6 @@ QuoteAmigo Resources
    north-richland-hills-tx-flooring-and-painting-estimating-software-12615914-183431
    north-richland-hills-tx-software-gratuito-de-facturacion-para-contratistas-12615918-183431
    pflugerville-tx-free-contractor-estimating-app-12615979-183431
+   pflugerville-tx-flooring-and-painting-estimating-software-12615980-184219
+   pflugerville-tx-free-invoicing-software-for-contractors-12615981-184219
+   pflugerville-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615982-184219
