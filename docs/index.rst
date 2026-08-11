@@ -639,3 +639,6 @@ QuoteAmigo Resources
    missouri-city-tx-free-contractor-estimating-app-12615859-163925
    missouri-city-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615862-163925
    north-richland-hills-tx-free-contractor-estimating-app-12615913-163925
+   missouri-city-tx-free-contractor-estimating-app-12615859-182049
+   missouri-city-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615862-182049
+   north-richland-hills-tx-free-contractor-estimating-app-12615913-182049
