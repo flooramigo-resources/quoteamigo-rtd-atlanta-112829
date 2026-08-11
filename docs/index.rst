@@ -618,3 +618,6 @@ QuoteAmigo Resources
    leander-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615748-061243
    leander-tx-presupuestos-para-pisos-y-pintura-12615749-061243
    leander-tx-software-gratuito-de-facturacion-para-contratistas-12615750-061243
+   missouri-city-tx-free-contractor-estimating-app-12615859
+   missouri-city-tx-flooring-and-painting-estimating-software-12615860
+   missouri-city-tx-free-invoicing-software-for-contractors-12615861
