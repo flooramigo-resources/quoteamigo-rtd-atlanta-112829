@@ -5,6 +5,9 @@ QuoteAmigo Resources
    :maxdepth: 2
    :caption: Resources
 
+   little-elm-tx-free-contractor-estimating-app-12615769-065030
+   little-elm-tx-flooring-and-painting-estimating-software-12615770-065030
+   little-elm-tx-free-invoicing-software-for-contractors-12615771-065030
    lancaster-tx-free-invoicing-software-for-contractors-12615729-060404
    lancaster-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615730-060404
    lancaster-tx-presupuestos-para-pisos-y-pintura-12615731-060404
