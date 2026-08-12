@@ -668,3 +668,6 @@ z-free-contractor-estimating-app-6472513-123634
    prosper-tx-flooring-and-painting-estimating-software-12616022-203016
    prosper-tx-free-invoicing-software-for-contractors-12616023-203016
    prosper-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616024-203016
+   prosper-tx-flooring-and-painting-estimating-software-12616022-213934
+   prosper-tx-free-invoicing-software-for-contractors-12616023-213934
+   prosper-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616024-213934
