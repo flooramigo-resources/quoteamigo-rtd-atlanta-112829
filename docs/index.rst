@@ -684,3 +684,6 @@ QuoteAmigo Resources
    san-marcos-tx-flooring-and-painting-estimating-software-12616154-001523
    san-marcos-tx-free-invoicing-software-for-contractors-12616155-001523
    san-marcos-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616156-001523
+   sachse-tx-presupuestos-para-pisos-y-pintura-12616103-004734
+   sachse-tx-software-gratuito-de-facturacion-para-contratistas-12616104-004734
+   san-marcos-tx-free-contractor-estimating-app-12616153-004734
