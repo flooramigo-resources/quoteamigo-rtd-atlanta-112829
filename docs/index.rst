@@ -687,3 +687,6 @@ QuoteAmigo Resources
    sachse-tx-presupuestos-para-pisos-y-pintura-12616103-004734
    sachse-tx-software-gratuito-de-facturacion-para-contratistas-12616104-004734
    san-marcos-tx-free-contractor-estimating-app-12616153-004734
+   schertz-tx-flooring-and-painting-estimating-software-12616178-005647
+   schertz-tx-free-invoicing-software-for-contractors-12616179-005647
+   schertz-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616180-005647
