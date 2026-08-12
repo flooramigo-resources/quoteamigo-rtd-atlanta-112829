@@ -699,3 +699,6 @@ QuoteAmigo Resources
    san-marcos-tx-presupuestos-para-pisos-y-pintura-12616157-014214
    san-marcos-tx-software-gratuito-de-facturacion-para-contratistas-12616158-014214
    schertz-tx-free-contractor-estimating-app-12616177-014214
+   the-colony-tx-presupuestos-para-pisos-y-pintura-12616289-015047
+   the-colony-tx-software-gratuito-de-facturacion-para-contratistas-12616290-015047
+   university-park-tx-free-contractor-estimating-app-12616321-015047
