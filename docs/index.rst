@@ -702,3 +702,6 @@ QuoteAmigo Resources
    the-colony-tx-presupuestos-para-pisos-y-pintura-12616289-015047
    the-colony-tx-software-gratuito-de-facturacion-para-contratistas-12616290-015047
    university-park-tx-free-contractor-estimating-app-12616321-015047
+   schertz-tx-flooring-and-painting-estimating-software-12616178-021248
+   schertz-tx-free-invoicing-software-for-contractors-12616179-021248
+   schertz-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616180-021248
