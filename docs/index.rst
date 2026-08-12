@@ -20,10 +20,6 @@ QuoteAmigo Resources
    rowlett-tx-flooring-and-painting-estimating-software-12616094-205859
    rowlett-tx-free-invoicing-software-for-contractors-12616095-205859
    rowlett-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616096-205859
-
-   rowlett-tx-flooring-and-painting-estimating-software-12616094-205859
-   rowlett-tx-free-invoicing-software-for-contractors-12616095-205859
-   rowlett-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616096-205859
    mansfield-tx-free-contractor-estimating-app-12615805-qa-120154
    mansfield-tx-flooring-and-painting-estimating-software-12615806-qa-120154
    mansfield-tx-free-invoicing-software-for-contractors-12615807-qa-120154
@@ -58,9 +54,6 @@ QuoteAmigo Resources
    leander-tx-free-contractor-estimating-app-12615745-050040
    leander-tx-flooring-and-painting-estimating-software-12615746-050040
    atlanta-ga-free-contractor-estimating-app
-   lancaster-tx-free-invoicing-software-for-contractors-12615729-qa_20260811T021159
-   leander-tx-free-contractor-estimating-app-12615745-qa_20260811T021159
-   leander-tx-flooring-and-painting-estimating-software-12615746-qa_20260811T021159
    austin-tx-free-contractor-estimating-app
    austin-tx-flooring-and-painting-estimating-software
    austin-tx-aplicacion-gratuita-de-presupuestos-para-contratistas
@@ -359,7 +352,6 @@ QuoteAmigo Resources
    prosper-tx-presupuestos-para-pisos-y-pintura-12616025-205220
    prosper-tx-software-gratuito-de-facturacion-para-contratistas-12616026-205220
    rowlett-tx-free-contractor-estimating-app-12616093-205220
-z-free-contractor-estimating-app-6472513-123634
    chandler-az-flooring-and-painting-estimating-software-6472514-124238
    chandler-az-free-invoicing-software-for-contractors-6472515-124238
    chandler-az-aplicacion-gratuita-de-presupuestos-para-contratistas-6472516-124238
@@ -620,9 +612,6 @@ z-free-contractor-estimating-app-6472513-123634
    kyle-tx-free-invoicing-software-for-contractors-12615717-234248
    kyle-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615718-234248
    kyle-tx-presupuestos-para-pisos-y-pintura-12615719-234248
-   kyle-tx-free-invoicing-software-for-contractors-12615717-234248
-   kyle-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615718-234248
-   kyle-tx-presupuestos-para-pisos-y-pintura-12615719-234248
    kyle-tx-software-gratuito-de-facturacion-para-contratistas-12615720-235223
    lancaster-tx-free-contractor-estimating-app-12615727-235223
    lancaster-tx-flooring-and-painting-estimating-software-12615728-235223
@@ -689,3 +678,6 @@ z-free-contractor-estimating-app-6472513-123634
    sachse-tx-presupuestos-para-pisos-y-pintura-12616103-220156
    sachse-tx-software-gratuito-de-facturacion-para-contratistas-12616104-220156
    san-marcos-tx-free-contractor-estimating-app-12616153-220156
+   san-marcos-tx-flooring-and-painting-estimating-software-12616154-001523
+   san-marcos-tx-free-invoicing-software-for-contractors-12616155-001523
+   san-marcos-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616156-001523
