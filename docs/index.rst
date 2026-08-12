@@ -651,3 +651,6 @@ QuoteAmigo Resources
    pflugerville-tx-presupuestos-para-pisos-y-pintura-12615983-191204
    pflugerville-tx-software-gratuito-de-facturacion-para-contratistas-12615984-191204
    prosper-tx-free-contractor-estimating-app-12616021-191204
+   pflugerville-tx-flooring-and-painting-estimating-software-12615980-201402
+   pflugerville-tx-free-invoicing-software-for-contractors-12615981-201402
+   pflugerville-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12615982-201402
