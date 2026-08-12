@@ -336,7 +336,11 @@ QuoteAmigo Resources
    centennial-co-aplicacion-gratuita-de-presupuestos-para-contratistas-6472510-122932
    centennial-co-presupuestos-para-pisos-y-pintura-6472511-123634
    centennial-co-software-gratuito-de-facturacion-para-contratistas-6472512-123634
-   chandler-az-free-contractor-estimating-app-6472513-123634
+   chandler-a
+   prosper-tx-presupuestos-para-pisos-y-pintura-12616025-205220
+   prosper-tx-software-gratuito-de-facturacion-para-contratistas-12616026-205220
+   rowlett-tx-free-contractor-estimating-app-12616093-205220
+z-free-contractor-estimating-app-6472513-123634
    chandler-az-flooring-and-painting-estimating-software-6472514-124238
    chandler-az-free-invoicing-software-for-contractors-6472515-124238
    chandler-az-aplicacion-gratuita-de-presupuestos-para-contratistas-6472516-124238
