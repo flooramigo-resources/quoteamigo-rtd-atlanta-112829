@@ -708,3 +708,6 @@ QuoteAmigo Resources
    university-park-tx-flooring-and-painting-estimating-software-12616322-025044
    university-park-tx-free-invoicing-software-for-contractors-12616323-025044
    university-park-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616324-025044
+   schertz-tx-flooring-and-painting-estimating-software-12616178-035941
+   schertz-tx-free-invoicing-software-for-contractors-12616179-035941
+   schertz-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616180-035941
