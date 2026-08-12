@@ -696,3 +696,6 @@ QuoteAmigo Resources
    schertz-tx-flooring-and-painting-estimating-software-12616178-005647
    schertz-tx-free-invoicing-software-for-contractors-12616179-005647
    schertz-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616180-005647
+   san-marcos-tx-presupuestos-para-pisos-y-pintura-12616157-014214
+   san-marcos-tx-software-gratuito-de-facturacion-para-contratistas-12616158-014214
+   schertz-tx-free-contractor-estimating-app-12616177-014214
