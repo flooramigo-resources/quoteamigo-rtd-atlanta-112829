@@ -5,6 +5,9 @@ QuoteAmigo Resources
    :maxdepth: 2
    :caption: Resources
 
+   schertz-tx-presupuestos-para-pisos-y-pintura-12616181-012032
+   schertz-tx-software-gratuito-de-facturacion-para-contratistas-12616182-012032
+   the-colony-tx-free-contractor-estimating-app-12616285-012032
    san-marcos-tx-presupuestos-para-pisos-y-pintura-12616157-002441
    san-marcos-tx-software-gratuito-de-facturacion-para-contratistas-12616158-002441
    schertz-tx-free-contractor-estimating-app-12616177-002441
