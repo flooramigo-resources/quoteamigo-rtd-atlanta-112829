@@ -8,6 +8,10 @@ QuoteAmigo Resources
    rowlett-tx-flooring-and-painting-estimating-software-12616094-205859
    rowlett-tx-free-invoicing-software-for-contractors-12616095-205859
    rowlett-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616096-205859
+
+   rowlett-tx-flooring-and-painting-estimating-software-12616094-205859
+   rowlett-tx-free-invoicing-software-for-contractors-12616095-205859
+   rowlett-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616096-205859
    mansfield-tx-free-contractor-estimating-app-12615805-qa-120154
    mansfield-tx-flooring-and-painting-estimating-software-12615806-qa-120154
    mansfield-tx-free-invoicing-software-for-contractors-12615807-qa-120154
