@@ -714,3 +714,6 @@ QuoteAmigo Resources
    schertz-tx-flooring-and-painting-estimating-software-12616178-061030
    schertz-tx-free-invoicing-software-for-contractors-12616179-061030
    schertz-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616180-061030
+   schertz-tx-flooring-and-painting-estimating-software-12616178-102403
+   schertz-tx-free-invoicing-software-for-contractors-12616179-102403
+   schertz-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616180-102403
