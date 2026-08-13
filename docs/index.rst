@@ -723,3 +723,6 @@ QuoteAmigo Resources
    university-park-tx-presupuestos-para-pisos-y-pintura-12616325-012449
    university-park-tx-software-gratuito-de-facturacion-para-contratistas-12616326-012449
    wylie-tx-free-contractor-estimating-app-12616381-012449
+   wylie-tx-flooring-and-painting-estimating-software-12616382-014547
+   wylie-tx-free-invoicing-software-for-contractors-12616383-014547
+   wylie-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616384-014547
