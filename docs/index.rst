@@ -726,3 +726,5 @@ QuoteAmigo Resources
    wylie-tx-flooring-and-painting-estimating-software-12616382-014547
    wylie-tx-free-invoicing-software-for-contractors-12616383-014547
    wylie-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616384-014547
+   wylie-tx-presupuestos-para-pisos-y-pintura-12616385-022120
+   wylie-tx-software-gratuito-de-facturacion-para-contratistas-12616386-022120
