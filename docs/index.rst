@@ -720,3 +720,6 @@ QuoteAmigo Resources
    the-colony-tx-presupuestos-para-pisos-y-pintura-12616289-163317
    the-colony-tx-software-gratuito-de-facturacion-para-contratistas-12616290-163317
    university-park-tx-free-contractor-estimating-app-12616321-163317
+   university-park-tx-presupuestos-para-pisos-y-pintura-12616325-012449
+   university-park-tx-software-gratuito-de-facturacion-para-contratistas-12616326-012449
+   wylie-tx-free-contractor-estimating-app-12616381-012449
