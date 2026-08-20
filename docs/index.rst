@@ -5,6 +5,8 @@
    :maxdepth: 2
    :caption: Resources
 
+   new-york-ny-generador-de-facturas-para-pintura-315
+
    new-york-ny-painting-invoice-generator-113
 
    new-york-ny-flooring-invoice-generator-81
