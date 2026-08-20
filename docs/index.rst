@@ -5,6 +5,8 @@ QuoteAmigo Resources
    :maxdepth: 2
    :caption: Resources
 
+   new-york-ny-free-estimating-software-for-service-businesses-49
+
    the-colony-tx-flooring-and-painting-estimating-software-12616286-013215
    the-colony-tx-free-invoicing-software-for-contractors-12616287-013215
    the-colony-tx-aplicacion-gratuita-de-presupuestos-para-contratistas-12616288-013215
