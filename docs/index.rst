@@ -60,4 +60,4 @@ QuoteAmigo Resources
    facturas-de-pintura-en-dallas-lista-de-documentacion-en-obra-468-110957
    phoenix-contractor-estimates-property-context-491-112518
    presupuestos-para-contratistas-de-san-diego-lista-de-documentacion-en-obra-560-113457
-   facturas-de-pisos-en-miami-contexto-de-la-propiedad-583-113928
+   facturas-de-pintura-en-atlanta-alcance-y-partidas-606-114302
