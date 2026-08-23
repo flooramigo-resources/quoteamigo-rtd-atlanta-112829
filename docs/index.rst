@@ -57,3 +57,4 @@ QuoteAmigo Resources
    mansfield-tx-free-contractor-estimating-app-12615805-qa-100700
    mansfield-tx-flooring-and-painting-estimating-software-12615806-qa-100700
    facturas-de-pisos-en-chicago-flujo-listo-para-el-cliente-445-014634
+   facturas-de-pintura-en-dallas-lista-de-documentacion-en-obra-468-110957
