@@ -1,4 +1,4 @@
-﻿QuoteAmigo Resources
+QuoteAmigo Resources
 ====================
 
 
@@ -56,3 +56,4 @@
    mansfield-tx-software-gratuito-de-facturacion-para-contratistas-12615810-qa-104510
    mansfield-tx-free-contractor-estimating-app-12615805-qa-100700
    mansfield-tx-flooring-and-painting-estimating-software-12615806-qa-100700
+   facturas-de-pisos-en-chicago-flujo-listo-para-el-cliente-445-014634
